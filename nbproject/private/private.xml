@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/emanu/Documents/NetBeansProjects/EmanMVC/web/WEB-INF/jsp/include.jsp</file>
+            <file>file:/C:/Users/emanu/Documents/NetBeansProjects/EmanMVC/src/java/kampusapp/model/Mahasiswa.java</file>
+            <file>file:/C:/Users/emanu/Documents/NetBeansProjects/EmanMVC/nbproject/build-impl.xml</file>
+            <file>file:/C:/Users/emanu/Documents/NetBeansProjects/EmanMVC/web/WEB-INF/jsp/mahasiswa-form.jsp</file>
+            <file>file:/C:/Users/emanu/Documents/NetBeansProjects/EmanMVC/src/java/kampusapp/dao/KampusDAO.java</file>
+            <file>file:/C:/Users/emanu/Documents/NetBeansProjects/EmanMVC/web/WEB-INF/jsp/home.jsp</file>
+            <file>file:/C:/Users/emanu/Documents/NetBeansProjects/EmanMVC/src/java/kampusapp/dao/KampusDAOProses.java</file>
+            <file>file:/C:/Users/emanu/Documents/NetBeansProjects/EmanMVC/src/java/kampusapp/webcontroller/MahasiswaController.java</file>
+            <file>file:/C:/Users/emanu/Documents/NetBeansProjects/EmanMVC/web/WEB-INF/jsp/index.jsp</file>
+            <file>file:/C:/Users/emanu/Documents/NetBeansProjects/EmanMVC/src/java/kampusapp/model/DatabaseConfig.java</file>
+            <file>file:/C:/Users/emanu/Documents/NetBeansProjects/EmanMVC/web/redirect.jsp</file>
+            <file>file:/C:/Users/emanu/Documents/NetBeansProjects/EmanMVC/src/java/kampusapp/webcontroller/HomeController.java</file>
+        </group>
+    </open-files>
+</project-private>
